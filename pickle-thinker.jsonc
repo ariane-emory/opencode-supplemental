@@ -1,0 +1,11 @@
+{
+  // Ultrathink config for pickle-thinker
+  // mode: "lite" keeps the original behavior (prefix user prompts only).
+  // mode: "tool" adds an extra user turn after each tool result to force deeper analysis.
+  // Note: tool mode increases turns/tokens and may impact subscription limits.
+  "enabled": true,
+  // "lite" | "tool"
+  "mode": "tool",
+  // Change the thinking keyword if you like
+  "prefix": "Think step-by-step: "
+}

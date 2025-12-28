@@ -1,0 +1,4 @@
+---
+description: ls.
+---
+!`ls .`
