@@ -9,6 +9,7 @@ feat/config-forward-compat (from the CasualDeveloper remote)
 
 ### From origin:
 
+fix/session-timeline-filter-ignored-and-synthetic
 fix/providers-safety
 fix/home-end-in-menus
 #fix/display-recents-consistency
