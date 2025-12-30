@@ -1,11 +1,8 @@
 ### Foreign remotes:
 
 feature/transparent-theme (from the JosXa remote)
-#bash-outout-scrollbox-on-click (from the remorses remote)
-#ask_tool (from the dbpolito remote)
 askquestion-tool (from the iljod remote)
 feat/config-forward-compat (from the CasualDeveloper remote)
-#feat/display-message-tps (from the OpeOginni remote)
 feature/dynamic-details (from the gignit remote)
 
 ### From origin:
