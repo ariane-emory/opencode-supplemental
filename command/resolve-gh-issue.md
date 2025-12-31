@@ -18,7 +18,7 @@ Think the changes required to resolve the issue through thoroughly and break the
 
 Do not make any changes unrelated to the changes that are required to resolve the isue.
 
-Think carefully about whether the changes necessitate re-generating either the TypeScript or Go SDKs, and if so be sure to include this step in your plan. Don't worry about the Python SDK yet, we can deal with that later on.
+Think carefully about whether the changes necessitate re-generating the TypeScript SDK, and if so be sure to include this step in your plan. Don't worry about the Python SDK yet, we can deal with that later on.
 
 Group the plan's steps into "phases". After completing each phase, the code MUST build correctly and all tests (except the enterprise tests, you can ignore those) MUST pass. 
 

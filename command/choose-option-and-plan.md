@@ -10,6 +10,6 @@ Think the changes required to implement option $ARGUMENTS through thoroughly and
 
 Do not make any changes unrelated to the changes that are required to resolve the isue.
 
-Think carefully about whether the changes necessitate re-generating either the TypeScript or Go SDKs, and if so be sure to include this step in your plan. Don't worry about the Python SDK yet, we can deal with that later on.
+Think carefully about whether the changes necessitate re-generating the TypeScript SDK, and if so be sure to include this step in your plan. Don't worry about the Python SDK yet, we can deal with that later on.
 
 Once you've come up with your plan, submit it to me for approval.
