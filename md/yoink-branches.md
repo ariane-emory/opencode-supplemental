@@ -1,9 +1,10 @@
-### Foreign remotes:
+### From foreign remotes:
 
 feature/transparent-theme (from the JosXa remote)
 askquestion-tool (from the iljod remote)
 feat/config-forward-compat (from the CasualDeveloper remote)
 feature/dynamic-details (from the gignit remote)
+handoff-compaction (from the IgorWarzocha remote)
 
 ### From origin:
 
@@ -40,7 +41,7 @@ feat/persistant-sidebar-overlay-behaviour
 feat/no-share-in-header
 feat/session-timeline-repeat
 
-#### The order is very important for these ones:
+#### The order is important for these ones since the last one is a patch to reconcile the prior two:
 
 fix/nonfatal-missing-key-commands
 feat/keybindable-commands
