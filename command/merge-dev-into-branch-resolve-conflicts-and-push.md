@@ -2,4 +2,4 @@
 description: Merge dev into branch.
 agent: build
 ---
-Check out the $ARGUMENTS branch, !`cat ~/.config/opencode/md/merge-dev-into-branch--body.md`
+!`opencode expand ~/.config/opencode/md/merge-dev-into-branch--body.md $1`
