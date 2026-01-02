@@ -26,7 +26,7 @@ feat/configurable-recent-models-limit
 feat/continue-command
 feat/experimental-dont-cache-markdown
 feat/franlol--subagents-in-the-sidebar
-feat/glob-permissions
+#feat/glob-permissions
 feat/interjections
 feat/jsonc-user-themes
 feat/new-session-commands
