@@ -1,5 +1,6 @@
 ### From foreign remotes:
 
+feat/display-message-tps (from the OpeOginni remote)
 feature/transparent-theme (from the JosXa remote)
 askquestion-tool (from the iljod remote)
 feat/config-forward-compat (from the CasualDeveloper remote)
@@ -18,7 +19,7 @@ fix/persist-sidebar
 fix/message-truncation
 fix/autocompletion-filtered-order
 fix/modal-menus-filtered-order
-feat/opeoginni--display-message-tps
+#feat/opeoginni--display-message-tps
 feat/global-compaction-threshold
 feat/agent-descriptions-in-autocomplete
 feat/configurable-message-limit-wip
